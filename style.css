@@ -89,7 +89,7 @@ header.sticky{
 }
 
 .home{
-    background:url('https://syt.binhdinh.gov.vn/uploads/news/2020_08/phat-dong-chien-dich.png') no-repeat;
+    background:url(images/phat-dong-chien-dich.png) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
